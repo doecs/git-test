@@ -1,2 +1,2 @@
-* asdf
-test
+| `te\|st` |
+| - |
